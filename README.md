@@ -1,5 +1,4 @@
-
-    <h1>Survive Game</h1>
+<h1>Survive Game</h1>
 
     <p>
       This is a game created using object-oriented programming in units. The objective of the game is to survive as long as possible while facing two types of monsters: spaceships and reptiles. 
