@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Survive Game</title>
-  </head>
-  <body>
+
     <h1>Survive Game</h1>
 
     <p>
