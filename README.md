@@ -15,9 +15,9 @@
       The game also has a unique feature where the player can teleport by pressing the 'ctrl' key. The game takes place on an infinite map, allowing players to move around freely.
     </p>
 
-    <h2>How to Play</h2>
+<h2>How to Play</h2>
 
-    <p>
+<p>
       To play the game, simply download the game files and run the main executable. The game will start automatically, and the player can use the arrow keys to move around the map. The player can use the 'space' key to fire lasers at the monsters.
     </p>
 
@@ -54,7 +54,7 @@
       For example, the player character is an instance of the `Player` class, which has properties such as `x` and `y` coordinates, `health`, `experience`, and `power`. The `Player` class also has methods such as `move`, `fire`, and `pick_up_object`.
 </p>
 
-    <p>
+<p>
       Similarly, the monsters in the game are instances of the `Monster` class, which has properties such as `x` and `y` coordinates, `health`, and `power`. The `Monster` class also has methods such as `move` and `attack`.
     </p>
 
@@ -65,4 +65,7 @@
 <h2>Images</h2>
 
    ![image](https://user-images.githubusercontent.com/92048815/221453331-2b1de8ca-d238-480d-9474-40c82a8c7c68.png)
+   
+   ![image](https://user-images.githubusercontent.com/92048815/221453891-7c117c7f-1722-44b7-a7b6-6a0efd61662e.png)
+
 
